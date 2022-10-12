@@ -1,9 +1,9 @@
 <div align="center">
 
- # project - Translations
+ # JolyMine project - Translations
 	
  ***
-Данный репозиторий используется для мульти-языковой системы проекта
+Данный репозиторий используется для мульти-языковой системы проекта JolyMine (mc.jolymine.ru)
 </div>
 
 ---
