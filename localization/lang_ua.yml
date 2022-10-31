@@ -447,7 +447,7 @@ GOLDBLOCK_FORMAT:
   - '§fЗапустити/зупинити івент §8- §6/goldblock start/stop'
   - '§fДодати предмет §8- §6/goldblock create <Відсоток>'
 GOLDBLOCK_CREATE: '§8[§6§lJM§8] §6§l> §fВикористовуйте §8-§6/goldblock create <Відсоток>'
-GOLDBLOCK_START: '§8[§6ОГОЛОШЕННЯ§8] §fЗолотий блок з'явився на координатах §6X: {X} Y: {Y} Z: {Z}'
+GOLDBLOCK_START: '§8[§6ОГОЛОШЕННЯ§8] §fЗолотий блок зявився на координатах §6X: {X} Y: {Y} Z: {Z}'
 GOLDBLOCK_OPEN: '§8[§6ОГОЛОШЕННЯ§8] §fЗолотий блок на координатах §6X:{X} Y:{Y} Z:{Z} §fвідкрився!'
 GOLDBLOCK_CLOSED: '§8[§6ОГОЛОШЕННЯ§8] §fЗолотий блок на координатах §6X:{X} Y:{Y} Z:{Z} §fзакрився і скоро пропаде!'
 GOLDBLOCK_STOP:
