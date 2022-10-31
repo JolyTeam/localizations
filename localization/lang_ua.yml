@@ -21,7 +21,7 @@ BUNGEE_WHITELIST_MOTD:
   - '                 §6☬ §fЗАКРИТО ТЕСТУВАННЯ §6☬'
 BUNGEE_ERROR_MOTD:
   - '                    §6§m§l §8§l§m[§6§l§fJolyMine§8§l§m]§6§m§l §r'
-  - '      §6☬ §fВІДСУТНІЙ ЗВ'ЯЗОК З ГЛУЧНИМ КООРДИНАТОРОМ §6☬'
+  - '      §6☬ §fВІДСУТНІЙ ЗВЯЗОК З ГЛУЧНИМ КООРДИНАТОРОМ §6☬'
 BUNGEE_NO_SUPPORTED_MOTD:
   - '                    §6§m§l §8§l§m[§6§l§fJolyMine§8§l§m]§6§m§l §r'
   - '     §6☬ §fВЕРСІЯ ВАШОГО КЛІЄНТА НЕ ПІДТРИМУЄТЬСЯ §6☬'
@@ -58,14 +58,14 @@ WELCOME_MESSAGE:
   - ' §fДіскорд: §6discord.gg/{link-discord}'
   - '§6§m                                 §r'
 WHITELIST_MESSAGE:
-  - '§6§m §r'
+  - '§6§m                                               §r'
   - '§7                                                 §r'
   - '§fСервер знаходиться на стадії оновлення           §r'
   - '§fДетальна інформація знаходиться в групі ВК       §r'
   - '§7                                                 §r'
   - '§6§nvk.com/jolymine                                §r'
   - '§7                                                 §r'
-  - '§6§m §r'
+  - '§6§m                                               §r'
 NO_SUPPORTED_MESSAGE:
   - '§6§m                                               §r'
   - '§7                                                 §r'
@@ -78,7 +78,7 @@ NO_SUPPORTED_MESSAGE:
 #            Табло
 # ==============================
 
-CLASSIC_BOARD_TITLE: '§6§lSECRET'
+CLASSIC_BOARD_TITLE: '§6§lJolyMine'
 CLASSIC_BOARD_LINES:
   - '§7╔═§l◇ §6§nПрофіль'
   - '§7║ §fНік: §6%player%'
@@ -100,7 +100,7 @@ ANTIRELOG_BOARD_LINES:
   - '§7╠═§l◇ §6§nПротивник:§r'
   - '§7║ §fНік: §6%target%'
   - '§7║ §fГрупа: §6%target-group%'
-  - '§7║ §fЗдоров'я: §6%target-hp%'
+  - '§7║ §fЗдоровя: §6%target-hp%'
   - '§7╚═§l◇ §6§ljolymine.ru'
   
 # ==============================

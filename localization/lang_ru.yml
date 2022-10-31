@@ -78,7 +78,7 @@ NO_SUPPORTED_MESSAGE:
 #            Табло
 # ==============================
 
-CLASSIC_BOARD_TITLE: '§6§lSECRET'
+CLASSIC_BOARD_TITLE: '§6§lJolyMine'
 CLASSIC_BOARD_LINES:
   - '§7╔═§l◇ §6§nПрофиль'
   - '§7║ §fНик: §6%player%'
