@@ -221,7 +221,7 @@ PLAYER_NOT_AUTH: '§8[§6§lJM§8] §6§l> §fВы не вошли в аккау
 PLAYER_NOT_REGISTER: '§8[§6§lJM§8] §6§l> §fВы еще не зарегистрировались'
 PLAYER_CHANGE_PASSWORD: '§8[§6§lJM§8] §6§l> §fВаш пароль был успешно изменён!'
 PLAYER_ALREADY_AUTH: '§8[§6§lJM§8] §6§l> §fВы уже авторизированы'
-PLAYER_SUCCESS_AUTH: '§8[§6§lJM§8] §6§l> §fТы успешно зарегистрировался!'
+PLAYER_SUCCESS_AUTH: '§8[§6§lJM§8] §6§l> §fВаш аккаунт был успешно зарегистрирован, приятной игры на нашем сервере!'
 PLAYER_WRONG_PASSWORD: '§8[§6§lJM§8] §6§l> §fВы ввели неверный пароль!'
 CHANGE_PASSWORD_USAGE: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/changepassword <старый пароль> <новый пароль>'
 UNREGISTER_USAGE: '§8[§6§lJM§8] §6§l> §fИспользуйте §8- §6/unregister <игрок>'
